@@ -1,0 +1,39 @@
+div{ background-color: cadetblue;
+}
+
+.heading{
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    color: #153448;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+
+
+.heading-two{
+    position: absolute;
+    top: 60px;
+    left: 40px;
+    color: #3C5B6F;
+    text-transform: none;
+
+}
+
+.shop{
+    border-radius: 50%;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+
+.btn{
+    margin-left:40px;
+    margin-top: 30px;
+    padding: 10px;
+    font-size:20px;
+    border-radius:none;
+    background-color:#3C5B6F;
+    text-transform: none;
+    color: #153448
+  }
